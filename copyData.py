@@ -1,7 +1,6 @@
 import pymysql
 import boto3
 import json
-import decimal
 from botocore.exceptions import ClientError
 
 # MySQL connection
